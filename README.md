@@ -17,10 +17,10 @@ O objetivo deste MVP é fornecer uma plataforma que permite aos usuários catalo
 ## Ferramentas Utilizadas
 
 **Miro:** Utilizado para a criação do MVP Canvas, facilitando a visualização do modelo de negócio e a estratégia do produto.<br>
-( )<br>
+(https://miro.com/app/board/uXjVLEuZO7U=/?share_link_id=234379870872)<br>
 **Backlog:** Empregado para gerenciar o Backlog do Produto e da Sprint, permitindo uma gestão eficiente e ágil das tarefas.<br>
-( )<br>
+(product-backlog.pdf e sprint-backlog.pdf)
 **Figma:** Utilizado para o design e prototipação da interface do aplicativo, proporcionando um protótipo interativo que simula a experiência do usuário.<br>
 (url e arquivos png inserido dentro da pasta nomeada como **wireframe**)<br>
-**Vídeo no YT:** Apresentação mostrando o que foi visto dentro das disciplinas apresentadas https://youtu.be/fWOMLBLoofo<br>
-( )
+**Vídeo no YT:** Apresentação mostrando o que foi visto dentro das disciplinas apresentadas <br>
+(https://youtu.be/fWOMLBLoofo)
